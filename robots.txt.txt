@@ -1,5 +1,0 @@
-User-agent: *
-
-Allow: /
-
-Sitemap: https://vlb-website.pages.dev/sitemap.xml
